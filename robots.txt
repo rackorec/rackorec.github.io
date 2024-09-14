@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rackorec.github.io/sitemap.html.gz
+Sitemap: https://rackorec.github.io/app/sitemap.html.gz
+Sitemap: https://rackorec.github.io/assets/sitemap.html.gz
+Sitemap: https://rackorec.github.io/css/sitemap.html.gz
+Sitemap: https://rackorec.github.io/includes/sitemap.html.gz
+Sitemap: https://rackorec.github.io/item/sitemap.html.gz
+Sitemap: https://rackorec.github.io/src/sitemap.html.gz
